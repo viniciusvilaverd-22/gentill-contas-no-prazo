@@ -1,5 +1,7 @@
 # Contas no Prazo
 
+![Apresentação de Contas no Prazo](assets/banner.png)
+
 **Organização de contas domésticas e vencimentos.**
 
 Contas no Prazo é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Contas no Prazo é uma solução Gentill em desenvolvimento, com interface em **
 - Acompanhe compromissos do mês
 - Registre pagamentos realizados
 - Organize vencimentos recorrentes
+
+## Identidade visual
+
+![Ícone de Contas no Prazo](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
